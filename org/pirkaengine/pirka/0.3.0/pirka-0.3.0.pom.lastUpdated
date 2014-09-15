@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 15 11:44:14 JST 2014
+http\://maven.seasar.org/maven2/.error=
+@default-http\://maven.deathmarch.jp/maven2/.lastUpdated=1410749054492
+http\://maven.seasar.org/maven2/.lastUpdated=1410749053407
+http\://maven.deathmarch.jp/maven2/.error=Could not transfer artifact org.pirkaengine\:pirka\:pom\:0.3.0 from/to maven.deathmarch.jp (http\://maven.deathmarch.jp/maven2)\: maven.deathmarch.jp\: nodename nor servname provided, or not known
+http\://repo.jenkins-ci.org/public/.error=
+http\://repo.jenkins-ci.org/public/.lastUpdated=1410749052771
+http\://sue445.github.com/maven/.error=
+http\://sue445.github.com/maven/.lastUpdated=1410749054862
+http\://repo1.maven.org/maven2/.lastUpdated=1410749053385
+http\://repo1.maven.org/maven2/.error=

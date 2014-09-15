@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 15 11:48:25 JST 2014
+http\://m2.modularity.net.au/releases/.error=
+http\://maven.seasar.org/maven2/.error=
+@default-http\://maven.deathmarch.jp/maven2/.lastUpdated=1410749305154
+http\://maven.seasar.org/maven2/.lastUpdated=1410749058090
+http\://repo.maven.apache.org/maven2/.lastUpdated=1410749305451
+http\://maven.deathmarch.jp/maven2/.error=Could not transfer artifact scenic3\:scenic3\:pom\:0.5.1 from/to maven.deathmarch.jp (http\://maven.deathmarch.jp/maven2)\: maven.deathmarch.jp
+http\://repo.jenkins-ci.org/public/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo.jenkins-ci.org/public/.lastUpdated=1410749057717
+https\://www.seasar.org/maven/maven2/.lastUpdated=1410749304926
+http\://sue445.github.com/maven/.lastUpdated=1410749058485
+http\://sue445.github.com/maven/.error=
+https\://www.seasar.org/maven/maven2/.error=
+http\://m2.modularity.net.au/releases/.lastUpdated=1410749305145
+http\://repo1.maven.org/maven2/.lastUpdated=1410749058069
+http\://repo1.maven.org/maven2/.error=
